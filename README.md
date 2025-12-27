@@ -3,6 +3,10 @@ Improving my coding skills and building small projects to grow as a developer<br
 
 
 ## 🌐 Socials:
+🌐 **Socials:**  
+[🐙 GitHub](https://github.com/rishavo01/rishavo01) · 
+[💼 LinkedIn](https://www.linkedin.com/in/rishav-singh-521538369/) · 
+[🐦 Twitter](https://x.com/Rishav60999)
 
 
 # 💻 Tech Stack:
